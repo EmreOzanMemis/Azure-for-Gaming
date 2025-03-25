@@ -34,9 +34,14 @@ Bu süreçler ve örnekler yalnızca bir başlangıç.
 Senin oyunun, senin vizyonun, **Azure’un gücüyle gerçeğe dönüşebilir.**
 
 > **Geleceğin oyunları, bugün yazılmaya başlıyor.**  
-> Katıl, üret, paylaş: [ID @ XBOX](https://www.xbox.com/tr-TR/games/id)
-> [AI for Games](https://developer.microsoft.com/en-us/games/solutions/ai-machine-learning/)  
+> Katıl, üret, paylaş:
+>
+> [ID @ XBOX](https://www.xbox.com/tr-TR/games/id)
+> 
+> [AI for Games](https://developer.microsoft.com/en-us/games/solutions/ai-machine-learning/)
+> 
 > [PlayFab](https://azure.microsoft.com/en-us/products/playfab/)
+> 
 > [Game Dev](https://azure.microsoft.com/en-us/solutions/gaming/)
 
 ---
