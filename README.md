@@ -4,6 +4,9 @@
 
 Azure, modern oyun geliştiricilerinin ihtiyaç duyduğu altyapıyı, yapay zekayı, global ölçeklenebilirliği ve oyun odaklı servisleri tek bir yerde toplar. Bu repo, oyun geliştirme yolculuğunuzda size ilham verecek gerçek örnekleri, teknolojileri ve kaynakları bir araya getiriyor.
 
+## GitHub Pages 
+e-Book: https://emreozanmemis.github.io/Azure-for-Gaming/#/ 
+
 ---
 
 ## 🔧 Neler Sunuyoruz?
